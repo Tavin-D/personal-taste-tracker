@@ -1,7 +1,7 @@
 console.log("Hello World!");
 
 // 1. Create an array called favoriteFoods with at least 6 foods you love.
-let favoriteFoods = ["Ramen", "Sushi", "Pizza", "Tacos", "Burgers", "Pasta"];
+let favoriteFoods = ["Chicken Wings", "Steak", "Pizza", "Tacos", "Burgers", "Pasta"];
 
 // 2. Loop through the list and print each favorite food.
 for (let food of favoriteFoods) {
@@ -27,7 +27,7 @@ printFoodRecommendation("Tacos");
 
 // Here's a list of 50 friends' favorite foods.
 let friendFavorites = [
-    "Pizza", "Sushi", "Pasta", "Falafel", "Burgers", "Ramen", "Pad Thai", "Curry", "Pho", "Nachos", "Gnocchi", "Donuts", "Steak", "Lasagna", "Biryani", "Tacos", "Croissant", "Churros", "Fried Rice", "Shawarma", "Miso Soup", "BBQ Ribs", "Hotpot", "Enchiladas", "Baklava", "Gyros", "Hummus", "Empanadas", "Pancakes", "Muffins", "Samosas", "Macarons", "Quiche", "Pierogi", "Arepas", "Okonomiyaki", "Ceviche", "Brisket", "Bao Buns", "Poutine", "Clam Chowder", "Fajitas", "Canelé", "Kimchi", "Tamales", "Omelette", "Biscuits", "Tempura", "Spring Rolls", "Crepes"
+    "Pizza", "Steak", "Pasta", "Falafel", "Burgers", "Chicken Wings", "Pad Thai", "Curry", "Pho", "Nachos", "Gnocchi", "Donuts", "Steak", "Lasagna", "Biryani", "Tacos", "Croissant", "Churros", "Fried Rice", "Shawarma", "Miso Soup", "BBQ Ribs", "Hotpot", "Enchiladas", "Baklava", "Gyros", "Hummus", "Empanadas", "Pancakes", "Muffins", "Samosas", "Macarons", "Quiche", "Pierogi", "Arepas", "Okonomiyaki", "Ceviche", "Brisket", "Bao Buns", "Poutine", "Clam Chowder", "Fajitas", "Canelé", "Kimchi", "Tamales", "Omelette", "Biscuits", "Tempura", "Spring Rolls", "Crepes"
 ];
 
 // 5. Print out only foods that have an "a" in the name.
