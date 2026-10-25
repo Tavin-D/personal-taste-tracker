@@ -38,6 +38,7 @@ for (let food of friendFavorites) {
 }
 
 // 6. Store the result in an array called foodsWithA. Print out the array.
+// Filter the friends' favorite foods to keep names containing the letter "a".
 let foodsWithA = friendFavorites.filter(food => food.toLowerCase().includes("a"));
 console.log(foodsWithA);
 
